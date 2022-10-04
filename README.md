@@ -1,7 +1,7 @@
 ## Description
 Start a simple mock server
 
-## Install from docker
+## Install from docker
 To install wiremock and configure some stubs(endpoint mocks) execute this command:
 
 ```
@@ -27,7 +27,7 @@ hello world endpoint mock could be:
 }
 ```
 
-## Test mocks server
+## Test mocks server
 To check our endpoint simple send a curl like this:
 
 ```
